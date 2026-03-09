@@ -1,7 +1,3 @@
-<p align="center">
-<img src="Cover_RA_FSO.png" width="400">
-</p>
-
 # Risk Analytics
 ### Machine Learning and Optimization for Data-Driven Decision Making
 
