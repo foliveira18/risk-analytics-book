@@ -40,7 +40,7 @@ The chapters introduce both conceptual foundations and practical computational m
 ---
 
 ## Download
-![Book Cover](cover/Cover_RA_FSO.jpeg)
+![Book Cover](cover/Cover_RA_FSO.png)
 
 The latest draft chapter is available here:
 
