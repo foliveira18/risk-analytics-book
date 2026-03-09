@@ -48,7 +48,7 @@ The chapters introduce both conceptual foundations and practical computational m
 
 The latest draft chapter is available here:
 
-[Download Chapter 1 (PDF)](link_here)
+[Download Chapter 1 (PDF)] (https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch1_Oliveira.pdf)
 
 ---
 
