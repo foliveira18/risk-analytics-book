@@ -1,154 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Risk Analytics — Fernando S. Oliveira</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      max-width: 980px;
-      margin: 40px auto;
-      padding: 0 20px 60px;
-      line-height: 1.7;
-      color: #222;
-      background: #fff;
-    }
-    h1, h2, h3 {
-      color: #163a63;
-    }
-    h1 {
-      margin-bottom: 6px;
-    }
-    h3 {
-      margin-top: 0;
-      font-weight: normal;
-    }
-    .author {
-      margin-bottom: 24px;
-    }
-    .section {
-      margin-top: 36px;
-    }
-    ul, ol {
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-    li {
-      margin-bottom: 6px;
-    }
-    a {
-      color: #0b5ed7;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .cover {
-      margin-top: 16px;
-      margin-bottom: 20px;
-    }
-    .cover img {
-      max-width: 320px;
-      width: 100%;
-      height: auto;
-      border: 1px solid #ddd;
-    }
-    .download-box {
-      margin-top: 12px;
-      padding: 16px;
-      background: #f7f9fc;
-      border-left: 4px solid #163a63;
-    }
-  </style>
-</head>
-<body>
+Can you now create an index.html for the book risk analytics starting from the readme page? # Risk Analytics
+### Machine Learning and Optimization for Data-Driven Decision Making
 
-  <h1>Risk Analytics</h1>
-  <h3>Machine Learning and Optimization for Data-Driven Decision Making</h3>
+**Author:** Fernando S. Oliveira
 
-  <p class="author"><strong>Author:</strong> Fernando S. Oliveira</p>
+This repository contains draft chapters of the forthcoming book
 
-  <p>
-    This repository contains draft chapters of the forthcoming book
-  </p>
+**Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
-  <p><strong>Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making</strong></p>
+The book develops a unified analytical framework for decision making under uncertainty, integrating statistical modeling, forecasting, optimization, and machine learning techniques. It is intended for graduate students, researchers, and practitioners in operations management, finance, economics, and data science.
 
-  <p>
-    The book develops a unified analytical framework for decision making under uncertainty,
-    integrating statistical modeling, forecasting, optimization, and machine learning techniques.
-    It is intended for graduate students, researchers, and practitioners in operations management,
-    finance, economics, and data science.
-  </p>
+Modern organizations operate in environments characterized by uncertainty and complex interdependencies. Decisions regarding investment, supply chains, financial portfolios, infrastructure systems, and technological innovation must be made despite incomplete information about future states of the world.
 
-  <p>
-    Modern organizations operate in environments characterized by uncertainty and complex interdependencies.
-    Decisions regarding investment, supply chains, financial portfolios, infrastructure systems, and
-    technological innovation must be made despite incomplete information about future states of the world.
-  </p>
+Risk analytics provides a set of quantitative tools designed to support such decisions. By combining probability theory, stochastic modeling, simulation, optimization methods, and machine learning algorithms, risk analytics allows decision makers to model uncertainty, forecast future outcomes, and design strategies that are robust to unpredictable events.
 
-  <p>
-    Risk analytics provides a set of quantitative tools designed to support such decisions.
-    By combining probability theory, stochastic modeling, simulation, optimization methods,
-    and machine learning algorithms, risk analytics allows decision makers to model uncertainty,
-    forecast future outcomes, and design strategies that are robust to unpredictable events.
-  </p>
+The book develops a structured analytical pipeline:
 
-  <p>
-    The book develops a structured analytical pipeline:
-  </p>
+1. **Identification of uncertainty and risk sources**
+2. **Statistical modeling and probabilistic analysis**
+3. **Forecasting and predictive modeling**
+4. **Optimization and decision modeling**
+5. **Data-driven decision making**
 
-  <ol>
-    <li><strong>Identification of uncertainty and risk sources</strong></li>
-    <li><strong>Statistical modeling and probabilistic analysis</strong></li>
-    <li><strong>Forecasting and predictive modeling</strong></li>
-    <li><strong>Optimization and decision modeling</strong></li>
-    <li><strong>Data-driven decision making</strong></li>
-  </ol>
+The chapters introduce both conceptual foundations and practical computational methods, including:
 
-  <p>
-    The chapters introduce both conceptual foundations and practical computational methods, including:
-  </p>
+- probability distributions and stochastic modeling  
+- time-series forecasting  
+- Monte Carlo simulation  
+- decision trees and scenario analysis  
+- dynamic programming and reinforcement learning  
+- financial risk modeling and option pricing  
+- project and operational risk management  
 
-  <ul>
-    <li>probability distributions and stochastic modeling</li>
-    <li>time-series forecasting</li>
-    <li>Monte Carlo simulation</li>
-    <li>decision trees and scenario analysis</li>
-    <li>dynamic programming and reinforcement learning</li>
-    <li>financial risk modeling and option pricing</li>
-    <li>project and operational risk management</li>
-  </ul>
+---
 
-  <div class="section">
-    <h2>Current Chapters</h2>
-    <ul>
-      <li><strong>Chapter 1 — Risk, Uncertainty, and Decision Making</strong></li>
-    </ul>
-  </div>
+## Current Chapters
 
-  <div class="section">
-    <h2>Download</h2>
+- **Chapter 1 — Risk, Uncertainty, and Decision Making**
 
-    <div class="cover">
-      <img src="Cover_RA_FSO.png" alt="Book Cover">
-    </div>
+---
 
-    <div class="download-box">
-      <p>The latest draft chapter is available here:</p>
-      <p>
-        <a href="https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch1_Oliveira.pdf">
-          Download Chapter 1 (PDF)
-        </a>
-      </p>
-    </div>
-  </div>
+## Download
+![Book Cover](Cover_RA_FSO.png)
 
-  <div class="section">
-    <h2>License</h2>
-    <p>Copyright © 2026 Fernando S. Oliveira</p>
-  </div>
+The latest draft chapter is available here:
 
-</body>
-</html>
+![Download Chapter 1 (PDF)](https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch1_Oliveira.pdf)
+
+---
+
+## License
+
+Copyright © 2026 Fernando S. Oliveira
+
