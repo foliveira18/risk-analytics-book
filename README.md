@@ -7,10 +7,10 @@ This repository contains draft chapters of the forthcoming book
 
 ## Current Chapters
 - **Chapter 1 — Risk, Uncertainty, and Decision Making**
-[Download Chapter 1 (PDF)](https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch1_Oliveira.pdf)
+[Download Chapter 1 (PDF)](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch1_Oliveira.pdf)
 
 - **Chapter 2 — The Psychology of Risk and Uncertainty**
-[Download Chapter 2 (PDF)](https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch2_Oliveira.pdf)
+[Download Chapter 2 (PDF)](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch2_Oliveira.pdf)
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
