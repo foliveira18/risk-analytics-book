@@ -1,4 +1,3 @@
-# Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making
 ![Book Cover](Cover_RA_FSO.png)
 
 **Author:** Fernando S. Oliveira  
