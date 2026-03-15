@@ -1,80 +1,119 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Risk Analytics — Fernando S. Oliveira</title>
   <style>
     body {
       font-family: Arial, Helvetica, sans-serif;
-      max-width: 980px;
+      max-width: 960px;
       margin: 40px auto;
       padding: 0 20px 60px;
       line-height: 1.7;
       color: #222;
       background: #fff;
     }
-    h1, h2, h3 {
-      color: #163a63;
+
+    h1, h2 {
+      color: #111;
     }
+
     h1 {
-      margin-bottom: 6px;
+      font-size: 2rem;
+      margin-bottom: 0.3em;
     }
-    h3 {
-      margin-top: 0;
-      font-weight: normal;
+
+    h2 {
+      margin-top: 2em;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 0.3em;
     }
-    .author {
-      margin-bottom: 24px;
+
+    .subtitle {
+      font-size: 1.05rem;
+      color: #444;
+      margin-bottom: 1.5em;
     }
-    .section {
-      margin-top: 36px;
-    }
-    ul, ol {
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-    li {
-      margin-bottom: 6px;
-    }
-    a {
-      color: #0b5ed7;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
+
     .cover {
-      margin-top: 16px;
-      margin-bottom: 20px;
+      text-align: center;
+      margin: 30px 0;
     }
+
     .cover img {
       max-width: 320px;
       width: 100%;
       height: auto;
-      border: 1px solid #ddd;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+      border-radius: 4px;
     }
-    .download-box {
-      margin-top: 12px;
-      padding: 16px;
-      background: #f7f9fc;
-      border-left: 4px solid #163a63;
+
+    .chapters {
+      list-style: none;
+      padding: 0;
+    }
+
+    .chapters li {
+      margin-bottom: 1.2em;
+      padding: 1em 1.2em;
+      background: #f8f8f8;
+      border-left: 4px solid #444;
+      border-radius: 4px;
+    }
+
+    a {
+      color: #0b57d0;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    ol, ul {
+      padding-left: 1.5em;
+    }
+
+    .license {
+      margin-top: 3em;
+      font-size: 0.95rem;
+      color: #555;
+      border-top: 1px solid #ddd;
+      padding-top: 1.2em;
     }
   </style>
 </head>
 <body>
+  <h1>Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making</h1>
+  <p class="subtitle"><strong>Author:</strong> Fernando S. Oliveira</p>
 
-  <h1>Risk Analytics</h1>
-  <h3>Machine Learning and Optimization for Data-Driven Decision Making</h3>
-
-  <p class="author"><strong>Author:</strong> Fernando S. Oliveira</p>
+  <div class="cover">
+    <img src="Cover_RA_FSO.png" alt="Book Cover" />
+  </div>
 
   <p>
     This repository contains draft chapters of the forthcoming book
+    <strong>Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making</strong>.
   </p>
 
-  <p><strong>Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making</strong></p>
+  <h2>Current Chapters</h2>
+  <ul class="chapters">
+    <li>
+      <strong>Chapter 1 — Risk, Uncertainty, and Decision Making</strong><br />
+      <a href="https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch1_Oliveira.pdf" target="_blank">
+        Download Chapter 1 (PDF)
+      </a>
+    </li>
+    <li>
+      <strong>Chapter 2 — The Psychology of Risk and Uncertainty</strong><br />
+      <a href="https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch2_Oliveira.pdf" target="_blank">
+        Download Chapter 2 (PDF)
+      </a>
+    </li>
+  </ul>
 
+  <h2>About the Book</h2>
   <p>
     The book develops a unified analytical framework for decision making under uncertainty,
     integrating statistical modeling, forecasting, optimization, and machine learning techniques.
@@ -83,9 +122,10 @@
   </p>
 
   <p>
-    Modern organizations operate in environments characterized by uncertainty and complex interdependencies.
-    Decisions regarding investment, supply chains, financial portfolios, infrastructure systems, and
-    technological innovation must be made despite incomplete information about future states of the world.
+    Modern organizations operate in environments characterized by uncertainty and complex
+    interdependencies. Decisions regarding investment, supply chains, financial portfolios,
+    infrastructure systems, and technological innovation must be made despite incomplete
+    information about future states of the world.
   </p>
 
   <p>
@@ -95,10 +135,7 @@
     forecast future outcomes, and design strategies that are robust to unpredictable events.
   </p>
 
-  <p>
-    The book develops a structured analytical pipeline:
-  </p>
-
+  <h2>Analytical Pipeline</h2>
   <ol>
     <li><strong>Identification of uncertainty and risk sources</strong></li>
     <li><strong>Statistical modeling and probabilistic analysis</strong></li>
@@ -107,10 +144,7 @@
     <li><strong>Data-driven decision making</strong></li>
   </ol>
 
-  <p>
-    The chapters introduce both conceptual foundations and practical computational methods, including:
-  </p>
-
+  <h2>Topics Covered</h2>
   <ul>
     <li>probability distributions and stochastic modeling</li>
     <li>time-series forecasting</li>
@@ -121,38 +155,10 @@
     <li>project and operational risk management</li>
   </ul>
 
-  <div class="section">
-    <h2>Current Chapters</h2>
-    <ul>
-      <li><strong>Chapter 1 — Risk, Uncertainty, and Decision Making</strong></li>
-    </ul>
-  </div>
-
-  <div class="section">
-    <h2>Download</h2>
-
-    <div class="cover">
-      <img src="Cover_RA_FSO.png" alt="Book Cover">
-    </div>
-
-
-    <div class="download-box">
-      <p>The latest draft chapter is available here:</p>
-      <p>
-        <a href="/risk-analytics-book/Risk_Analytics_Ch1_Oliveira.pdf">Download Chapter 1 Risk, Uncertainty, and Decision Making (PDF)</a>
-      </p>
-    </div>
-    
-  </div>
-
-
-
-
-  
-  <div class="section">
+  <div class="license">
     <h2>License</h2>
     <p>Copyright © 2026 Fernando S. Oliveira</p>
+    <p>Draft chapters are shared for academic and educational purposes. All rights reserved.</p>
   </div>
-
 </body>
 </html>
