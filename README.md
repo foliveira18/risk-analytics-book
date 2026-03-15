@@ -1,9 +1,17 @@
-Can you now create an index.html for the book risk analytics starting from the readme page? # Risk Analytics
-### Machine Learning and Optimization for Data-Driven Decision Making
+# Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making
+![Book Cover](Cover_RA_FSO.png)
 
-**Author:** Fernando S. Oliveira
+**Author:** Fernando S. Oliveira  
 
-This repository contains draft chapters of the forthcoming book
+This repository contains draft chapters of the forthcoming book  
+**Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**.
+
+## Current Chapters
+- **Chapter 1 — Risk, Uncertainty, and Decision Making**
+[Download Chapter 1 (PDF)](https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch1_Oliveira.pdf)
+
+- **Chapter 2 — The Psychology of Risk and Uncertainty**
+[Download Chapter 2 (PDF)](https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch2_Oliveira.pdf)
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
@@ -30,25 +38,10 @@ The chapters introduce both conceptual foundations and practical computational m
 - dynamic programming and reinforcement learning  
 - financial risk modeling and option pricing  
 - project and operational risk management  
-
----
-
-## Current Chapters
-
-- **Chapter 1 — Risk, Uncertainty, and Decision Making**
-
----
-
-## Download
-![Book Cover](Cover_RA_FSO.png)
-
-The latest draft chapter is available here:
-
-![Download Chapter 1 (PDF)](https://github.com/foliveira18/risk-analytics-book/blob/main/Risk_Analysis_Ch1_Oliveira.pdf)
-
 ---
 
 ## License
-
 Copyright © 2026 Fernando S. Oliveira
 
+Draft chapters are shared for academic and educational purposes.  
+All rights reserved.
