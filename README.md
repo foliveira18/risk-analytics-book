@@ -15,6 +15,9 @@ This repository contains draft chapters of the forthcoming book
 - **Chapter 3 — The Architecture of Risk Preferences**
 [Download Chapter 3 (PDF)](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch3_Oliveira.pdf)
 
+[Access the Chapter 3 companion code and materials on GitHub](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_3)
+
+
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
