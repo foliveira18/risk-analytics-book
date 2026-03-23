@@ -6,17 +6,14 @@ This repository contains draft chapters of the forthcoming book
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**.
 
 ## Current Chapters
-- **Chapter 1 — Risk, Uncertainty, and Decision Making**
-[Download Chapter 1 (PDF)](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch1_Oliveira.pdf)
+- **Chapter 1 — Risk, Uncertainty, and Decision Making**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch1_Oliveira.pdf)
 
-- **Chapter 2 — The Psychology of Risk and Uncertainty**
-[Download Chapter 2 (PDF)](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch2_Oliveira.pdf)
+- **Chapter 2 — The Psychology of Risk and Uncertainty**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch2_Oliveira.pdf)
 
-- **Chapter 3 — The Architecture of Risk Preferences**
-[Download Chapter 3 (PDF)](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch3_Oliveira.pdf)
-
-[Access the Chapter 3 companion code and materials on GitHub](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_3)
-
+- **Chapter 3 — The Architecture of Risk Preferences**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch3_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_3)
 
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
