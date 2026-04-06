@@ -15,7 +15,9 @@ This repository contains draft chapters of the forthcoming book
 - **Chapter 3 — The Architecture of Risk Preferences**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch3_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_3)
 
-
+- **Chapter 4 — VaR, CVaR and Downside Risk Assessment**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch4_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_4)
+  
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
 The book develops a unified analytical framework for decision making under uncertainty, integrating statistical modeling, forecasting, optimization, and machine learning techniques. It is intended for graduate students, researchers, and practitioners in operations management, finance, economics, and data science.
