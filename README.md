@@ -17,6 +17,9 @@ This repository contains draft chapters of the forthcoming book
 
 - **Chapter 4 — VaR, CVaR and Downside Risk Assessment**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch4_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_4)
+
+- **Chapter 5 — Tail Risk Optimization with Discrete Distributions**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch5_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_5)
   
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
