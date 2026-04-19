@@ -23,8 +23,8 @@ This repository contains draft chapters of the forthcoming book
 - **Chapter 5 — Tail Risk Optimization with Discrete Distributions**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch5_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_5)
 
-
-### Supervised Learning and Risk Scoring
+- **Chapter 6 — Tail Risk under Unknown Loss Distributions**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch6_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_6)
 
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
