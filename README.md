@@ -6,6 +6,7 @@ This repository contains draft chapters of the forthcoming book
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**.
 
 ## Current Chapters
+## Foundations of Risk
 - **Chapter 1 — Risk, Uncertainty, and Decision Making**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch1_Oliveira.pdf)
 
@@ -15,12 +16,17 @@ This repository contains draft chapters of the forthcoming book
 - **Chapter 3 — The Architecture of Risk Preferences**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch3_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_3)
 
+## Probabilistic Tools for Risk Modeling
 - **Chapter 4 — VaR, CVaR and Downside Risk Assessment**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch4_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_4)
 
 - **Chapter 5 — Tail Risk Optimization with Discrete Distributions**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch5_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_5)
-  
+
+
+## Supervised Learning and Risk Scoring
+
+
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
 The book develops a unified analytical framework for decision making under uncertainty, integrating statistical modeling, forecasting, optimization, and machine learning techniques. It is intended for graduate students, researchers, and practitioners in operations management, finance, economics, and data science.
