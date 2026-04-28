@@ -26,6 +26,11 @@ This repository contains draft chapters of the forthcoming book
 - **Chapter 6 — Tail Risk under Unknown Loss Distributions**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch6_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_6)
 
+### Risk Segmentation, Prediction, and Scoring
+
+- **Chapter 7 — Interpretable Risk Segmentation with Classification Trees**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch7_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_7)
+
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
