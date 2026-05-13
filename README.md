@@ -31,6 +31,9 @@ This repository contains draft chapters of the forthcoming book
 - **Chapter 7 — Interpretable Risk Segmentation with Classification Trees**  
   [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch7_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_7)
 
+- **Chapter 8 — Supervised Learning for Risk Prediction**  
+  [PDF](https://foliveira18.github.io/risk-analytics-book/Risk_Analytics_Ch8_Oliveira.pdf) | [Code](https://github.com/foliveira18/risk-analytics-book/tree/main/chapter_8)
+
 
 **Risk Analytics: Machine Learning and Optimization for Data-Driven Decision Making**
 
